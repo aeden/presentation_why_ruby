@@ -1,0 +1,9 @@
+{
+  "name":"Why Ruby, Why Now?",
+  "description":"An introduction to how Ruby can help you, as a developer, become more productive, build more robust and maintainable software and enjoy your job even more than you do now.",
+  "sections":[
+    {"section":"introduction"},
+    {"section":"language"},
+    {"section":"libraries"}
+  ]
+}
