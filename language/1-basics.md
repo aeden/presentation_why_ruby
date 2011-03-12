@@ -24,7 +24,7 @@
     # everything is an object
     # and objects have methods
     2.even?                     # returns true
-    1.2.ciel                    # returns 2
+    1.2.ceil                    # returns 2
     "Anthony knows Ruby".length # returns 18
 
 !SLIDE
