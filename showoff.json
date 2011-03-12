@@ -4,6 +4,7 @@
   "sections":[
     {"section":"introduction"},
     {"section":"language"},
-    {"section":"libraries"}
+    {"section":"libraries"},
+    {"section":"starting"}
   ]
 }

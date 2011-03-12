@@ -62,3 +62,20 @@
 !SLIDE
 
 # Cucumber
+
+!SLIDE
+
+    @@@
+    Feature: create a person
+      As a user
+      In order to add someone to my address book
+      I can create a person
+
+      Scenario:
+        Given I am an authenticated user
+        And I enter "Anthony Eden" for the name
+        And I enter "anthony@dnsimple.com" for the email
+        And I add the user
+        Then I should see "Anthony Eden"
+        And I should see "anthony@dnsimple.com"
+
