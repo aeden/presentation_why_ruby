@@ -1,6 +1,6 @@
 !SLIDE
 
-# Learing #
+# Learning #
 
 !SLIDE
 
